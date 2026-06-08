@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=BnHany&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20SOC%20Analyst%20%7C%20DFIR%20Practitioner&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Blue+Team+%7C+SOC+Operations+%7C+DFIR;Post-Quantum+Cryptography+Research;OSINT+%7C+Threat+Intelligence;Open+Source+Contributor+%7C+GSoC+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Blue+Team+%7C+SOC+Operations+%7C+DFIR;Post-Quantum+Cryptography+Research;OSINT+%7C+Threat+Intelligence;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
